@@ -2,10 +2,18 @@
  * YOUR CODE HERE *
  ******************/
 
-
- 
-
-
+const myFirstName = 'LaToddra';
+const myLastName = 'Belton';
+const myBestFriend = 'Tiffany';
+const mySentence = 'LaToddra' + 'Belton' + 'Tiffany';
+const myFavoriteNum = 8;
+const myMentalAge = 57;
+const myHeight = 63;          
+const myFavoriteYear = 2011;
+const mySum = 3 + 1918 + 24 +1;
+const myProduct = 232 + 43 /2 + 4;
+const myHeightAndAge = myMentalAge + myHeight
+myHeightAndAge
 /*********************************************************************************************************************
 
  * CODE BELOW HERE IS FOR INTERNAL USE ONLY! IT ENSURES THAT THE TESTING *
